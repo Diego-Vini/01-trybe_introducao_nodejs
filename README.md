@@ -10,3 +10,5 @@
 - Exercicios:
   - Calculo Imc;
   - Calculo de velocidade média;
+
+**Alguns arquivos necessitam do npm install para baixar os pacotes necessários**
