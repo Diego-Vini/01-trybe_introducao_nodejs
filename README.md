@@ -1,6 +1,6 @@
 # 01-trybe_introducao_nodejs
 
-#Repositório contem exercicios feitos no conteudo de introdução em nodejs da Trybe
+#Repositório contem exercicios feitos no conteudo de introdução em nodejs da Trybe.
 
 - Importação de módulos locais;
 - Exportação de módulos locais;
@@ -11,4 +11,4 @@
   - Calculo Imc;
   - Calculo de velocidade média;
 
-**Alguns arquivos necessitam do npm install para baixar os pacotes necessários**
+**Para alguns arquivos é necessario rodar o npm install para baixar os pacotes necessários.**
