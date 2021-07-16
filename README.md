@@ -30,4 +30,4 @@
   - Teste de retorno da função;
   - Teste de validação do tipo de dado enviado;
 
-**Para alguns arquivos é necessario rodar o npm install para baixar os pacotes necessários.**
+**Para alguns arquivos é necessario rodar o npm install para baixar os pacotes.**
